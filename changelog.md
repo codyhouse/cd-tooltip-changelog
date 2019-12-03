@@ -1,5 +1,14 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
-## [1.0.0] - 2019-11-14
+## [1.0.3] - 2019-07-30
+- Set a z-index to the tooltip element
+
+## [1.0.2] - 2019-04-16
+- New tooltip--sticky class
+
+## [1.0.1] - 2019-04-15
+- New data-tooltip-class attribute: add custom classes to the tooltip element
+
+## [1.0.0] - 2019-03-11
 - Component created
