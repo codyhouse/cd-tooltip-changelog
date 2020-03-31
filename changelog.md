@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.0] - 2020-03-30
+- Allow for tooltip HTML content
+
 ## [1.0.3] - 2019-07-30
 - Set a z-index to the tooltip element
 
