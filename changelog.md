@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.1] - 2021-11-03
+- Fixed bug on iOS
+
 ## [1.1.0] - 2020-03-30
 - Allow for tooltip HTML content
 
