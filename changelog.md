@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.2] - 2021-12-13
+- Fixed issue with tooltip triangle position
+
 ## [1.1.1] - 2021-11-03
 - Fixed bug on iOS
 
